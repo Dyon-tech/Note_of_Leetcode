@@ -1,50 +1,34 @@
-# Note_of_Leetcode
+## Note_of_Leetcode
+
 对leetcode网站以及剑指offer上的题目进行总结和尝试着写一下自己的解题思路。
 
+## LeetCode
 
-# LeetCode
+### 简单难度
 
-### 滑动窗口类型题目
+- [239-滑动窗口最大值]([https://github.com/Dyon-tech/Note_of_Leetcode/blob/master/problems/239-%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md](https://github.com/Dyon-tech/Note_of_Leetcode/blob/master/problems/239-滑动窗口最大值.md))
 
-### 双指针类型题目
-
-### 链表类型题目
-
-### 二叉树及递归
-
-### 栈及队列类型题目
-
-### 查找表类型题目
-
-### 动态规划类型题目
-
-### 回溯算法类型题目
-
-### 图
-
-### 字符串类型题目
+### 中等难度
 
 
-# 剑指Offer
 
-### 基本数据结构及算法题
+### 困难难度
 
-### 高质量代码-代码完整性
+- [496-下一个更大元素]([https://github.com/Dyon-tech/Note_of_Leetcode/blob/master/problems/496-%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0.md](https://github.com/Dyon-tech/Note_of_Leetcode/blob/master/problems/496-下一个更大元素.md))
 
-### 高质量代码-代码鲁棒性
 
-### 解决面试题思路-画图使抽象问题形象化
 
-### 解决面试题思路-举例使抽象问题具体化
 
-### 解决面试题思路-分解使复杂问题简单化
 
-### 优化时空效率-时间效率
+## 剑指Offer
 
-### 优化时空效率-时间效率和空间效率的平衡
+### 简单难度
 
-### 知识迁移能力
 
-### 抽象建模能力
 
-### 发散思维能力
+### 中等难度
+
+
+
+### 困难难度
+
