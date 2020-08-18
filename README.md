@@ -6,7 +6,7 @@
 
 ### 简单难度
 
-- [239-滑动窗口最大值]([https://github.com/Dyon-tech/Note_of_Leetcode/blob/master/problems/239-滑动窗口最大值.md)
+- [239-滑动窗口最大值](https://github.com/Dyon-tech/Note_of_Leetcode/blob/master/problems/239-滑动窗口最大值.md)
 
 ### 中等难度
 
@@ -14,7 +14,7 @@
 
 ### 困难难度
 
-- [496-下一个更大元素]([https://github.com/Dyon-tech/Note_of_Leetcode/blob/master/problems/496-下一个更大元素.md))
+- [496-下一个更大元素](https://github.com/Dyon-tech/Note_of_Leetcode/blob/master/problems/496-下一个更大元素.md)
 
 
 
